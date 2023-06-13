@@ -17,3 +17,17 @@
 - 5. [Questão 07](./Lista%2003/Questão%2007/)
 - 6. [Questão 08](./Lista%2003/Questão%2008/)
 - 7. [Questão 10](./Lista%2003/Questão%2010/)
+
+## Lista 4
+
+- 1. [Questão 01](./Lista%2004/questão%2001/)
+- 2. [Questão 02](./Lista%2004/questão%2002/)
+- 3. [Questão 03](./Lista%2004/questão%2003/)
+- 4. [Questão 04](./Lista%2004/questão%2004/)
+- 5. [Questão 05](./Lista%2004/questão%2005/)
+
+## Lista 5
+
+- 1. [Questão 01](./Lista%2005/questão%2001/)
+
+
